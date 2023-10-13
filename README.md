@@ -1,9 +1,9 @@
 <h1 align="center"> Hello, World! 🌍 I'm Djallel AMAR KHODJA ! </h1>
 <h3 align="center">A passionate Data Analysis from France</h3>
 
--🚀 I’m currently learning ** Data Analysis **
+- 🚀 I’m currently learning ** Data Analysis **
 
--🎯 **Before becoming Data Analysis, I was a Petroleum Engineer and Technology Teacher **
+- 🎯 **Before becoming Data Analysis, I was a Petroleum Engineer and Technology Teacher **
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
