@@ -1,9 +1,21 @@
 <h1 align="center"> Hello, World! 🌍 I'm Djallel AMAR KHODJA ! </h1>
 <h3 align="center">A passionate technology from France</h3>
 
-- 🚀 I’m currently learning ** Software Test Engineering **
+- 🚀 QA Embarqué & Automotive chez Capgemini.
+Coordination de test Europe / USA / Inde.
+J'utilise l'IA au quotidien dans mon workflow QA.
 
-- 🎯 **Before becoming software test Engineer, I was a Petroleum Engineer and Technology Teacher **
+Ce que tu trouveras ici :
+→ Tests automatisés avec Selenium (Python)
+→ Scripts Python : API, data, automatisation
+→ Un QA qui code, pas juste un QA qui clique
+
+Certifié ISTQB | Google Data Analytics
+Trilingue FR / EN / AR
+
+- 🎯 **Avant la QA:
+→ Géologue terrain:  J'analysais les systèmes complexes durant plus de 7 ans: Décision en temps réel, environnement critique.
+→ Prof de techno (5 ans): Pédagogie, gestion de groupe, transmission. **
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
