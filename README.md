@@ -14,8 +14,8 @@ Certifié **ISTQB** | Google Data Analytics
 Trilingue FR / EN / AR
 
 - 🎯 **Avant la QA**:
-→ **Géologue terrain**:  J'analysais les systèmes complexes durant plus de 7 ans: Décision en temps réel, environnement critique.
-→ **Prof de techno (5 ans)**: Pédagogie, gestion de groupe, transmission.
+- → **Géologue terrain**:  J'analysais les systèmes complexes durant plus de 7 ans: Décision en temps réel, environnement critique.
+- → **Prof de techno (5 ans)**: Pédagogie, gestion de groupe, transmission.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
